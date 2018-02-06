@@ -1,5 +1,6 @@
 # pig-game
 
+🐷 🐽 🐖
 GAME RULES:
 
 - The game has 2 players, playing in rounds
@@ -9,3 +10,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
+https://marcelbranleur.github.io/pig-game/ 
